@@ -14,7 +14,7 @@ class InsertHotels extends Migration
     {
         //
         DB::table('hotels')->insert(
-            ['name' => 'Hotel 1', 'address' => 'Colombo 03','location' => 'Landmark',]
+            ['name' => 'Hotel 1', 'address' => 'address 1','location' => 'location 1',]
         );
     }
 

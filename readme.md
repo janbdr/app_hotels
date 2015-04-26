@@ -11,5 +11,6 @@ HTML 5 <br />
 bootstrap/3.3.4 <br />
 
 ##Usage
-Create a MySql database called 'db_hotels_app' and run the application <br /><br />
-go to 'app_hotels/public/hotels' to view all
+1)Create a MySql database and update configurations in config/database.php<br /><br />
+2)run 'php artisan migrate' command in your command prompt <br /><br />
+3)go to 'app_hotels/public/hotels' to view all
