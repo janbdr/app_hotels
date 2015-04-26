@@ -8,7 +8,7 @@
             <h4>Hotels</h4>
         </div>
         <div class="col-md-4 text-right">
-            <a class="btn btn-success" href="admin/add_hotels"><span class="glyphicon glyphicon-th-large" aria-hidden="true"></span> Add New</a>
+            <a class="btn btn-success" href="admin/add_hotels"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Add New</a>
         </div>
     </div>
     <hr>
