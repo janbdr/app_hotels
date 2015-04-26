@@ -11,5 +11,5 @@ HTML 5 <br />
 bootstrap/3.3.4 <br />
 
 ##Usage
-Create a MySql database called 'db_hotels_app' and run the application <br />
+Create a MySql database called 'db_hotels_app' and run the application <br /><br />
 go to 'app_hotels/public/hotels' to view all
