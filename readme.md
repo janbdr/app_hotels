@@ -2,7 +2,7 @@
 
 This is a web application for adding/searching hotels in Sri Lanka.
 
-# Requirements </br>
+## Requirements </br>
 PHP 5.5+
 
 ## Technologies
