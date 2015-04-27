@@ -16,19 +16,10 @@ Route::get('/', function () {
 });
 
 Route::get('/','WelcomeController@index');
-//Route::get('contact','WelcomeController@contact');
-//Route::get('about','PagesController@about');
 
 Route::resource('hotels','HotelsController');
 
 Route::get('admin/add_hotels','HotelsController@add_hotels');
 
-//Route::get('admin/add_hotels', function(){
-//    return view('admin.add_hotels');
-//});
-
 Route::get('admin','HotelsController@store');
 Route::get('hotels','HotelsController@getData');
-//Route::bind('hotels',function($value,$route){
-//   return App\Hotel::whereSlug($value)->first(); 
-//});

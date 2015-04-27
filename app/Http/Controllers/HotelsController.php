@@ -205,6 +205,7 @@ class HotelsController extends Controller
                     ,
                 ])
         );
+//
         $grid = $grid->render();
         return view('pages.hotels', compact('grid'));
     }
