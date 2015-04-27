@@ -2,6 +2,9 @@
 
 This is a web application for adding/searching hotels in Sri Lanka.
 
+# Requirements </br>
+PHP 5.5+
+
 ## Technologies
 
 PHP framework Lavarel 5 <br />
