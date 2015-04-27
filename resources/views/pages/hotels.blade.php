@@ -12,9 +12,7 @@
         </div>
     </div>
     <hr>
-
-    {!! $grid !!}
-
+    {!! str_replace('/?', '?', $grid) !!}
 </div>
 
 @stop
